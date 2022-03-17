@@ -12,4 +12,6 @@ To run this repo, download it and open file main.ipynb. This will appear as a ju
 
 If you run the program, you will be asked a series of questions about your API Key, the stock you wish to view, and the number of days worth of data in the future you want to predict. If you answer all of these, you should be greeted with this frame after a short duration of load time:
 
+![AAPL_stock_gui](https://user-images.githubusercontent.com/77950550/158735812-56cb0a02-ac27-4ce0-a87a-f3dffe88e6b3.PNG)
+
 Things I could improve with this project are that I would like to try and use a different Python GUI, maybe something like PyQt. On top of this, I think it would be helpful for the user to have a list of available stocks from the Quandl API, which is something I am planning to implement in the future.
