@@ -12,6 +12,4 @@ To run this repo, download it and open file main.ipynb. This will appear as a ju
 
 If you run the program, you will be asked a series of questions about your API Key, the stock you wish to view, and the number of days worth of data in the future you want to predict. If you answer all of these, you should be greeted with this frame after a short duration of load time:
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
-
 Things I could improve with this project are that I would like to try and use a different Python GUI, maybe something like PyQt. On top of this, I think it would be helpful for the user to have a list of available stocks from the Quandl API, which is something I am planning to implement in the future.
